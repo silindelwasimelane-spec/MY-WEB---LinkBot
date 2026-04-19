@@ -1,0 +1,24 @@
+{
+  "name": "my-web-linkbot-website",
+  "version": "1.0.0",
+  "description": "Pairing website for MY WEB - LinkBot WhatsApp bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "linkbot",
+    "pairing",
+    "website"
+  ],
+  "author": "SiyamThanda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "cors": "^2.8.5"
+  }
+}
